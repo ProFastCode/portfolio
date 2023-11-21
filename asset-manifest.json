@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.bf538fe7.css",
+    "main.js": "/static/js/main.4b0a1a61.js",
+    "static/media/TelegramBot.png": "/static/media/TelegramBot.47d3fdd12542b1cc704e.png",
+    "static/media/VkChat.jpg": "/static/media/VkChat.e50618f2a328f5a42dfc.jpg",
+    "static/media/TgRat.jpg": "/static/media/TgRat.ad3f778b73b864d3af8f.jpg",
+    "static/media/HeroImage.jpg": "/static/media/HeroImage.72973dff0adc9f0a2611.jpg",
+    "static/media/VkManyMessages.jpg": "/static/media/VkManyMessages.3ba4ba3574eed1b9fa69.jpg",
+    "static/media/ParseProxies.jpg": "/static/media/ParseProxies.342e00ee64a921117f5d.jpg",
+    "static/media/TokenVk.png": "/static/media/TokenVk.608946b8d1c7bb35cd3d.png",
+    "static/media/VkJaloba.jpg": "/static/media/VkJaloba.48c6766a7b5fae441c68.jpg",
+    "static/media/VKService.jpg": "/static/media/VKService.d448003856ad230b7b7a.jpg",
+    "static/media/Poeboto.jpg": "/static/media/Poeboto.050d30cada8de4611ccd.jpg",
+    "index.html": "/index.html",
+    "main.bf538fe7.css.map": "/static/css/main.bf538fe7.css.map",
+    "main.4b0a1a61.js.map": "/static/js/main.4b0a1a61.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf538fe7.css",
+    "static/js/main.4b0a1a61.js"
+  ]
+}
