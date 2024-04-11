@@ -18,11 +18,11 @@
       "skills": [
         {
           "name": "Python",
-          "image": "https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+          "image": "https://www.python.org/static/favicon.ico"
         },
         {
           "name": "FastAPI",
-          "image": "https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-plain.svg"
+          "image": "https://fastapi.tiangolo.com/img/favicon.png"
         },
         {
           "name": "Redis",
@@ -30,11 +30,11 @@
         },
         {
           "name": "Postgresql",
-          "image": "https://www.postgresql.org/media/img/about/press/elephant.png"
+          "image": "https://www.postgresql.org/favicon.ico"
         },
         {
           "name": "SQLAlchemy",
-          "image": "https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlalchemy/sqlalchemy-original.svg"
+          "image": "https://www.sqlalchemy.org/favicon.ico"
         },
         {
           "name": "SQlite",
@@ -47,27 +47,27 @@
       "skills": [
         {
           "name": "Selenium",
-          "image": "https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg"
+          "image": "https://www.selenium.dev/favicons/favicon.ico"
         },
         {
           "name": "Aiohttp",
-          "image": "https://docs.aiohttp.org/en/stable/_static/aiohttp-plain.svg"
+          "image": "https://docs.aiohttp.org/en/stable/_static/favicon.ico"
         },
         {
           "name": "Httpx",
-          "image": "https://raw.githubusercontent.com/encode/httpx/master/docs/img/butterfly.png"
+          "image": "https://www.python-httpx.org/assets/images/favicon.png"
         },
         {
           "name": "PyAutoGui",
-          "image": "https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+          "image": "https://www.python.org/static/favicon.ico"
         },
         {
           "name": "Beautiful Soup",
-          "image": "https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+          "image": "https://www.python.org/static/favicon.ico"
         },
         {
           "name": "Scrapy",
-          "image": "https://scrapy.org/favicons/favicon-96x96.png"
+          "image": "https://scrapy.org/favicons/favicon-192x192.png"
         }
       ]
     },
@@ -101,15 +101,15 @@
         },
         {
           "name": "Ubuntu",
-          "image": "https://github.com/devicons/devicon/raw/master/icons/ubuntu/ubuntu-plain.svg"
+          "image": "https://assets.ubuntu.com/v1/be7e4cc6-COF-favicon-32x32.png"
         },
         {
           "name": "Debian",
-          "image": "https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-plain.svg"
+          "image": "https://www.debian.org/favicon.ico"
         },
         {
           "name": "Fedora",
-          "image": "https://raw.githubusercontent.com/devicons/devicon/master/icons/fedora/fedora-plain.svg"
+          "image": "https://fedoraproject.org/favicon.ico"
         }
       ]
     },
@@ -118,7 +118,7 @@
       "skills": [
         {
           "name": "Git",
-          "image": "https://camo.githubusercontent.com/fbfcb9e3dc648adc93bef37c718db16c52f617ad055a26de6dc3c21865c3321d/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667"
+          "image": "https://git-scm.com/favicon.ico"
         },
         {
           "name": "GitHub",
@@ -130,7 +130,7 @@
         },
         {
           "name": "Docker",
-          "image": "https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
+          "image": "https://www.docker.com/wp-content/uploads/2024/02/cropped-docker-logo-favicon-192x192.png"
         },
         {
           "name": "VS Code",
@@ -142,7 +142,7 @@
         },
         {
           "name": "Postman",
-          "image": "https://camo.githubusercontent.com/93b32389bf746009ca2370de7fe06c3b5146f4c99d99df65994f9ced0ba41685/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676574706f73746d616e2f676574706f73746d616e2d69636f6e2e737667"
+          "image": "https://www.postman.com/_ar-assets/images/favicon-1-32.png"
         }
       ]
     }
@@ -186,37 +186,22 @@
     },
     {
       "id": 1,
-      "img": "https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg",
+      "img": "https://www.python.org/static/favicon.ico",
       "role": "Fullstack разработчик",
       "company": "24 python",
       "date": "с 5 сентября 2023",
       "desc": "24 Python | Фишки Python",
       "skills": [
         "Httpx",
-        "Redis",
         "Python",
-        "Scrapy",
-        "SQlite",
-        "Aiohttp",
-        "Ubuntu",
-        "Aiogram",
-        "FastAPI",
-        "Selenium",
         "Pyrogram",
-        "VKBottle",
-        "PyAutoGui",
         "Postgresql",
         "SQLAlchemy",
-        "Beautiful Soup",
         "Git",
-        "Fedora",
         "GitHub",
-        "Debian",
         "Docker",
-        "VS Code",
         "PyCharm",
         "Postman",
-        "Kali Linux",
         "Arch Linux"
       ]
     },
@@ -229,30 +214,16 @@
       "desc": "ВК-Сервис, сервис накрутки и автоматизация для социальной сети ВКонтакте.",
       "skills": [
         "Httpx",
-        "Redis",
         "Python",
-        "Scrapy",
-        "SQlite",
-        "Aiohttp",
-        "Ubuntu",
-        "Aiogram",
         "FastAPI",
-        "Selenium",
-        "Pyrogram",
         "VKBottle",
-        "PyAutoGui",
         "Postgresql",
         "SQLAlchemy",
-        "Beautiful Soup",
         "Git",
-        "Fedora",
         "GitHub",
-        "Debian",
         "Docker",
-        "VS Code",
         "PyCharm",
         "Postman",
-        "Kali Linux",
         "Arch Linux"
       ]
     },
@@ -267,28 +238,16 @@
         "Httpx",
         "Redis",
         "Python",
-        "Scrapy",
-        "SQlite",
-        "Aiohttp",
-        "Ubuntu",
-        "Aiogram",
         "FastAPI",
-        "Selenium",
         "Pyrogram",
-        "VKBottle",
-        "PyAutoGui",
         "Postgresql",
         "SQLAlchemy",
         "Beautiful Soup",
         "Git",
-        "Fedora",
         "GitHub",
-        "Debian",
         "Docker",
-        "VS Code",
         "PyCharm",
         "Postman",
-        "Kali Linux",
         "Arch Linux"
       ]
     }
@@ -296,30 +255,24 @@
   "projects": [
     {
       "id": 0,
-      "title": "Podstream",
-      "date": "Apr 2023 - May 2023",
-      "description": "Developed a full-stack web application that allows users to search for, play, and pause their favorite podcasts on demand and create podcasts. Implemented user authentication using Google Auth and Jwt Auth, made responsive user interface with React JS that provides users with a seamless experience across all devices. Practiced agile methodologies to optimize team efficiency and communication.",
-      "image": "https://user-images.githubusercontent.com/64485885/234602896-a1bd8bcc-b72b-4821-83d6-8ad885bf435e.png",
+      "title": "FastAPI Template",
+      "date": "Январь 2024",
+      "description": "Шаблон для создания Rest API на основе FastAPI",
+      "image": "https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png",
       "tags": [
-        "React Js",
-        "MongoDb",
-        "Node Js",
-        "Express Js",
-        "Redux"
+        "Python",
+        "FastAPI",
+        "Pydantic",
+        "SQLAlchemy"
       ],
-      "category": "web app",
-      "github": "https://github.com/rishavchanda/Podstream",
-      "webapp": "https://podstream.netlify.app/",
+      "category": "Backend",
+      "github": "https://github.com/FastCodeProfile/FastAPI_Template",
+      "webapp": "https://github.com/FastCodeProfile/FastAPI_Template",
       "member": [
         {
-          "name": "Rishav Chanda",
-          "img": "https://avatars.githubusercontent.com/u/64485885?v=4",
-          "github": "https://github.com/rishavchanda/"
-        },
-        {
-          "name": "Upasana Chaudhuri",
-          "img": "https://avatars.githubusercontent.com/u/100614635?v=4",
-          "github": "https://github.com/upasana0710"
+          "name": "Fast Code",
+          "img": "https://avatars.githubusercontent.com/u/95887682?v=4",
+          "github": "https://github.com/FastCodeProfile"
         }
       ]
     }
