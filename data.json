@@ -270,9 +270,36 @@
       "webapp": "https://github.com/FastCodeProfile/FastAPI_Template",
       "member": [
         {
-          "name": "Fast Code",
+          "name": "Fast Code (Creator, Developer)",
           "img": "https://avatars.githubusercontent.com/u/95887682?v=4",
           "github": "https://github.com/FastCodeProfile"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "title": "AvTools",
+      "date": "Декабрь 2023",
+      "description": "Сервис для автоматизации продаж на Авито. Автоматизируйте свою работу.\nСконцентрируйтесь на качестве трафика.",
+      "image": "https://av-tools.net/wp-content/uploads/2024/03/logo-new.svg",
+      "tags": [
+        "Python",
+        "FastAPI",
+        "Pydantic",
+        "SQLAlchemy"
+      ],
+      "category": "Backend",
+      "webapp": "https://panel.av-tools.net/",
+      "member": [
+        {
+          "name": "Fast Code (TL, Developer)",
+          "img": "https://avatars.githubusercontent.com/u/95887682?v=4",
+          "github": "https://github.com/FastCodeProfile"
+        },
+        {
+          "name": "Seliverstov Arseny (Developer)",
+          "img": "https://avatars.githubusercontent.com/u/67968946?v=4",
+          "github": "https://github.com/aSel1x"
         }
       ]
     }
