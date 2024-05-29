@@ -150,7 +150,7 @@
   "experiences": [
     {
       "id": 0,
-      "img": "https://cdn-edge.kwork.ru/images/favicons/favicon-32x32.png",
+      "img": "/static/media/Kwork.jpg",
       "role": "Python Developer",
       "company": "Kwork - Фриланс маркетплейс.",
       "date": "Январь 2020 — по настоящее время",
@@ -186,7 +186,7 @@
     },
     {
       "id": 1,
-      "img": "https://www.python.org/static/favicon.ico",
+      "img": "/static/media/CitronDEV.jpeg",
       "role": "Python Senior Developer",
       "company": "Citron Dev",
       "date": "Декабрь 2022 — по настоящее время",
@@ -207,7 +207,7 @@
     },
     {
       "id": 2,
-      "img": "https://vk.com/images/icons/pwa/apple/default.png?15",
+      "img": "/static/media/CitronDEV.jpeg",
       "role": "Team Lead",
       "company": "Citron Dev",
       "date": "Февраль 2023 — по настоящее время",
@@ -229,7 +229,7 @@
     },
     {
       "id": 3,
-      "img": "https://lh3.googleusercontent.com/u/0/drive-viewer/AKGpihajuxz5Xk-apg2Hz4i4bJ_H__a0KzUnBsJjT3eqAm8IgF_LvuqdPEEijPClZzs5oD9ysMwk5DIr5wpkBbNHNJYYCGmy-gQAeQ=w1440-h848",
+      "img": "/static/media/Poeboto.jpeg",
       "role": "TL, Python разработчик",
       "company": "Poeboto",
       "date": "Март 2023 — по настоящее время",
