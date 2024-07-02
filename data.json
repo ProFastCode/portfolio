@@ -302,6 +302,33 @@
           "github": "https://github.com/aSel1x"
         }
       ]
+    },
+    {
+      "id": 2,
+      "title": "Poeboto",
+      "date": "Март 2023",
+      "description": "За последний год я активно участвовал в разработке сервиса для управления трафиком в мессенджере Telegram, выполняя роль ведущего разработчика на Python для backend. Кроме того, я выполнял обязанности Team Lead, координируя и контролируя работу как backend, так и frontend разработчиков, обеспечивая эффективное взаимодействие и процесс разработки.",
+      "image": "https://www.poeboto.ru/images/logo.svg",
+      "tags": [
+        "Python",
+        "FastAPI",
+        "Pydantic",
+        "SQLAlchemy"
+      ],
+      "category": "Backend",
+      "webapp": "https://www.poeboto.ru/",
+      "member": [
+        {
+          "name": "Fast Code (TL, Developer)",
+          "img": "https://avatars.githubusercontent.com/u/95887682?v=4",
+          "github": "https://github.com/FastCodeProfile"
+        },
+        {
+          "name": "Seliverstov Arseny (Developer)",
+          "img": "https://avatars.githubusercontent.com/u/67968946?v=4",
+          "github": "https://github.com/aSel1x"
+        }
+      ]
     }
   ]
 }
