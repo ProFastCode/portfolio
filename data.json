@@ -236,7 +236,7 @@
     },
     {
       "id": 4,
-      "img": "https://av-tools.net/wp-content/uploads/2024/03/logo-new.svg",
+      "img": "https://av-tools.net/wp-content/uploads/2023/12/cropped-falcon.png",
       "role": "Lead Python developer",
       "company": "AvTools",
       "date": "Декабрь 2023 — по настоящее время",
@@ -262,7 +262,7 @@
     },
     {
       "id": 5,
-      "img": "https://av-tools.net/wp-content/uploads/2024/03/logo-new.svg",
+      "img": "https://av-tools.net/wp-content/uploads/2023/12/cropped-falcon.png",
       "role": "Team Lead",
       "company": "AvTools",
       "date": "Декабрь 2023 — по настоящее время",
@@ -311,8 +311,8 @@
       "id": 1,
       "title": "AvTools",
       "date": "Декабрь 2023",
-      "description": "Сервис для автоматизации продаж на Авито. Автоматизируйте свою работу.\nСконцентрируйтесь на качестве трафика.",
-      "image": "https://av-tools.net/wp-content/uploads/2024/03/logo-new.svg",
+      "description": "AvTools - комплекс инструментов для работы с Avito. AV-MESSAGE - Инструмент, позволяющий автоматизировать коммуникацию с клиентами и увеличить продажи. AV-PRICE - Инструмент, позволяющий отслеживать цену за клик при тарифе CPC. AV-WORDSTAT - Инструмент, позволяющий отслеживать количество поисковых запросов по категориям. AV-NOTIFY - Инструмент позволяющий отслеживать новые объявления с задержкой до 1 минуты. AV-SPOOLING 2024 - Инструмент, позволяющий накрутить поведенческие факторы и увеличить трафик.",
+      "image": "https://av-tools.net/wp-content/uploads/2023/12/cropped-falcon.png",
       "tags": [
         "Httpx",
         "Redis",
@@ -332,7 +332,7 @@
         "Docker"
       ],
       "category": "Backend",
-      "webapp": "https://panel.av-tools.net/",
+      "webapp": "https://av-tools.net/",
       "member": [
         {
           "name": "Fast Code (TL, Developer)",
