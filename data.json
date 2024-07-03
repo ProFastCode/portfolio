@@ -150,7 +150,7 @@
   "experiences": [
     {
       "id": 0,
-      "img": "/static/media/Kwork.png",
+      "img": "Kwork.png",
       "role": "Python разработчик",
       "company": "Kwork - Фриланс маркетплейс.",
       "date": "Январь 2020 — по настоящее время",
@@ -186,7 +186,7 @@
     },
     {
       "id": 1,
-      "img": "/static/media/CitronDEV.jpeg",
+      "img": "CitronDEV.jpeg",
       "role": "Python разработчик",
       "company": "Citron Dev",
       "date": "Декабрь 2022 — по настоящее время",
@@ -213,7 +213,7 @@
     },
     {
       "id": 3,
-      "img": "/static/media/Poeboto.jpeg",
+      "img": "Poeboto.jpeg",
       "role": "TL, Python разработчик",
       "company": "Poeboto",
       "date": "Март 2023 — по настоящее время",
