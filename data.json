@@ -1,5 +1,6 @@
 {
   "bio": {
+    "image": "media/HeroImage.jpg",
     "name": "Fast Code",
     "roles": [
       "Программист",
@@ -150,7 +151,7 @@
   "experiences": [
     {
       "id": 0,
-      "img": "Kwork.png",
+      "img": "media/Kwork.png",
       "role": "Python разработчик",
       "company": "Kwork - Фриланс маркетплейс.",
       "date": "Январь 2020 — по настоящее время",
@@ -186,7 +187,7 @@
     },
     {
       "id": 1,
-      "img": "CitronDEV.jpeg",
+      "img": "media/CitronDEV.jpeg",
       "role": "Python разработчик",
       "company": "Citron Dev",
       "date": "Декабрь 2022 — по настоящее время",
@@ -213,7 +214,7 @@
     },
     {
       "id": 3,
-      "img": "Poeboto.jpeg",
+      "img": "media/Poeboto.jpeg",
       "role": "TL, Python разработчик",
       "company": "Poeboto",
       "date": "Март 2023 — по настоящее время",
@@ -236,7 +237,7 @@
     },
     {
       "id": 4,
-      "img": "https://av-tools.net/wp-content/uploads/2023/12/cropped-falcon.png",
+      "img": "media/AvTools.png",
       "role": "Python ведущий разработчик",
       "company": "AvTools",
       "date": "Декабрь 2023 — по настоящее время",
@@ -262,7 +263,7 @@
     },
     {
       "id": 5,
-      "img": "https://av-tools.net/wp-content/uploads/2023/12/cropped-falcon.png",
+      "img": "media/AvTools.png",
       "role": "Team Lead",
       "company": "AvTools",
       "date": "Декабрь 2023 — по настоящее время",
